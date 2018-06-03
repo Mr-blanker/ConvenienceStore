@@ -1,0 +1,14 @@
+export const SET_LOADING = 'SET_LOADING'
+export const SET_USER = 'SET_USER'
+
+export const SET_USER_LIST = 'SET_USER_LIST'
+export const SET_USER_RESULTLIST = 'SET_USER_SET_USER_RESULTLIST'
+export const SET_ADDRESS_LIST = 'SET_ADDRESS_LIST'
+
+export const SET_GOODS_LIST = 'SET_GOODS_LIST'
+export const SET_ASSIGN_LIST = 'SET_ASSIGN_LIST'
+export const SET_APPOINT_LIST = 'SET_APPOINT_LIST'
+
+export const SET_CART_LIST = 'SET_CART_LIST'
+
+export const SET_FLAG = 'SET_FLAG'
